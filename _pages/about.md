@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+<br>
 I'm a third year undergraduate student from [School of Physics and Materials Science](https://spee.gzhu.edu.cn/), [Guangzhou University](https://www.gzhu.edu.cn/).
 My research interest includes galaxy formation and evolution, as well as the large-scale structure of the universe. 
 
