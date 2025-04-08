@@ -16,5 +16,5 @@ My research interest includes galaxy formation and evolution, as well as the lar
   
 
     
-I am very fortunate to be advised by [Dr. Mao Yewei](https://spee.gzhu.edu.cn/info/1681/18121.htm) from [School of Physics and Materials Science](https://spee.gzhu.edu.cn/), Guangzhou University, to conduct research on galaxy spectra and multiwavelength morphology of galaxies.  
-I also received training in numerical simulations of the cosmological large-scale structure under the supervision of [Dr. Wang Qiao](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html), from [National Astronomical Observatories of the Chinese Academy of Sciences (NAOC)](https://english.nao.cas.cn/)
+I am very fortunate to be advised by [Dr. Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm) from [School of Physics and Materials Science](https://spee.gzhu.edu.cn/), Guangzhou University, to conduct research on galaxy spectra and multiwavelength morphology of galaxies.  
+I also received training in numerical simulations of the cosmological large-scale structure under the supervision of [Dr. Qiao Wang](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html), from [National Astronomical Observatories of the Chinese Academy of Sciences (NAOC)](https://english.nao.cas.cn/)
